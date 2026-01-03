@@ -1,0 +1,7 @@
+{
+  "name": "Ultimate AI Meal Planner",
+  "description": "A high-end meal planning application powered by Gemini AI that generates personalized weekly nutrition plans, visualizes meals, and aggregates shopping lists.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
